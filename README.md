@@ -1,8 +1,6 @@
 # Greyscale_to_Color
 Computer Vision Project
 
-# Greyscale_to_Color
-Computer Vision Project
 
 Image Colorization using Autoencoder and U-Net - ReadMe
 =======================================================
