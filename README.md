@@ -2,7 +2,7 @@
 Computer Vision Project
 
 
-Image Colorization using Autoencoder and U-Net - ReadMe
+Image Colorization using Autoencoder and U-Net
 =======================================================
 
 This repository demonstrates the use of both **Autoencoder-based deep learning models** and **U-Net architecture** for colorizing grayscale images. The code is implemented using TensorFlow and Keras, and the training process leverages both **Mean Squared Error (MSE)** and **Mean Absolute Error (MAE)** for loss calculation. The model aims to predict the AB channels of the LAB color space, producing realistic colorizations from grayscale inputs.
